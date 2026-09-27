@@ -131,25 +131,6 @@
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahidul-Badhon&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Mahidul-Badhon&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</p>
-
----
 
 # 🎯 My Goal
 
@@ -176,9 +157,6 @@ and research to create meaningful real-world solutions.
 
 </p>
 
-<p align="center">
-  ⭐ <i>Thanks for visiting my profile!</i>
-</p>
 
 <!-- ===================== FOOTER ===================== -->
 
