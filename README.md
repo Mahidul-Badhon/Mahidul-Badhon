@@ -48,10 +48,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://mastodon.social/@Mahidul%20Islam" target="_blank">
-  <img src="https://img.shields.io/badge/Mastodon-%236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white" />
-</a>
-
 <a href="mailto:mahidul.badhon28@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
