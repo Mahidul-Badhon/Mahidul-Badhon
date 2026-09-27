@@ -1,7 +1,11 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20there!%20I'm%20Badhon%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img 
+    src="./assets/Better Code, Bigger Dreams.png" 
+    alt="Mahidul Badhon - Developer Banner"
+    width="100%"
+  />
 </p>
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
